@@ -8,8 +8,8 @@ var foods;
 function preload()
 {
   //load images here
-  doghappy=loadImage("images/dogimg1.png")
-   dogs=loadImage("images/dogimg.png")
+  doghappy=loadImage("images/dogImg1.png")
+   dogs=loadImage("images/dogImg.png")
 }
 
 function setup() {
