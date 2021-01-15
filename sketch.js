@@ -63,7 +63,7 @@ function writestock(x){
     x=x-1
   }
   database.ref('/').update({
-    Food:x
+    food:x
   })
 }
 
